@@ -1,4 +1,3 @@
-# Food-Ordering-AI-Agent-
 # Food Ordering AI Agent — Droidrun DevSprint 2026
 
 ##  Problem Statement
