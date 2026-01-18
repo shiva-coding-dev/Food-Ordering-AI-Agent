@@ -1,0 +1,28 @@
+Prompt to Run the Agent
+
+
+Go to the home screen.
+Open The Zomato App 
+If it asks to enable the location then Turn on it 
+Tap on Search Bar 
+Search for "Biryani"
+Click on the first Option
+Wait for the Screen to load 
+
+Click on the Filters Option 
+Look for the Restaurant Rating Section 
+Click on "Rated 4.0+"
+Then Click on "Show results"
+Wait the screen to load 
+
+Click on the First option of Restaurant 
+
+Select the option for the Chicken Biryani 
+If you can't find it the scroll till the end of the list untill You Find 
+Add 1 Chicken Biryani 
+Select for the Half Plate (if already selected then no need to select)
+
+Click "Add item <price>" in below red button
+Click the View Cart Option in bottom of screen 
+
+Speak the price of the item 
