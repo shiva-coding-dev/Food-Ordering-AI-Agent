@@ -90,6 +90,13 @@ https://youtu.be/f20miETkwtQ
 
 ---
 
+## Try it Yourself
+1. Connect a device on MobileRun
+2. Open Playground
+3. Paste the agent prompt
+4. Run with Gemini 2.5 Flash
+
+
 ## Author
 Shiva Gupta  
 Droidrun DevSprint 2026 Participant
